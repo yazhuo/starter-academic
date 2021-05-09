@@ -69,6 +69,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a second year Ph.D. student in the Computer Science Department at Emory University where I am fortunate to work with [Dr.Ymir Vigfusson](https://www.ymsir.com/) as part of the [SimBioSys Lab](https://simbiosys.mathcs.emory.edu/).
 
+My research interests include caching systems and distributed tracing. My current works focus on multi-tier caching performance and characteristics of distributed tracing data.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
