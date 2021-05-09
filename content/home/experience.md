@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experiences
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -16,7 +16,7 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
+# Experience.
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
