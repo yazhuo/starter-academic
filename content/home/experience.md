@@ -21,10 +21,6 @@ subtitle: null
 design:
   columns: "2"
 ---
-
-
-experience:
-
 * title: Research Intern
   company: Twitter
   company_url: ''
