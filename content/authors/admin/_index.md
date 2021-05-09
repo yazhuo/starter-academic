@@ -20,6 +20,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: assets/media/cv.pdf
+    icon_pack: ai
+    icon: cv
 organizations: []
 education:
   courses:
