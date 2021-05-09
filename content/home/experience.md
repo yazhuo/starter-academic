@@ -30,11 +30,9 @@ experience:
     date_start: '2021-02-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Traffic migration analysis and performance prediction based on Twitter Zipkin trace data.
+        * Analyzed Zipkin trace data and investigate characteristics
+        * Designed a model to predict traffic migration behavior
 
 design:
   columns: '2'
