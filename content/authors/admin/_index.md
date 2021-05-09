@@ -27,7 +27,7 @@ education:
       year: ""
     - course: M.S. in Software Engineering
       institution: South China University of Technology
-    - institution: South China University of Technology,
+    - institution: South China University of Technology
       course: B.S. in Software Engineering
 email: ""
 superuser: true
