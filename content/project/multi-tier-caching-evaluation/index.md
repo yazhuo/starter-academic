@@ -11,4 +11,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-To write
