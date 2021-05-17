@@ -4,7 +4,7 @@ date: 2021-05-17T21:39:06.661Z
 summary: test
 draft: false
 featured: false
-external_link: https://www.yazhuozhang.com/
+external_link: ""
 links: []
 image:
   filename: ""
