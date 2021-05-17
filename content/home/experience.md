@@ -29,6 +29,6 @@ design:
   date_start: '2021-02-01'
   date_end: ''
   description: |2-
-      Traffic migration analysis and performance prediction based on Twitter Zipkin trace data.
-       * Analyzed Zipkin trace data and investigate characteristics
-       * Designed a model to predict traffic migration behavior
+  * Traffic migration analysis and performance prediction based on Twitter Zipkin trace data.
+  * Analyzed Zipkin trace data and investigate characteristics
+  * Designed a model to predict traffic migration behavior
