@@ -6,7 +6,7 @@ experience:
   - title: Research Intern
     company: Twitter
     company_url: ""
-    company_logo: null
+    company_logo: “assets/media/twitter.png”
     location: Remote
     date_start: 2021-02-01
     date_end: ""
