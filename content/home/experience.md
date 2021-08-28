@@ -1,3 +1,4 @@
+---
 widget: experience
 active: true
 date_format: Jan 2006
@@ -22,3 +23,4 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
+---
