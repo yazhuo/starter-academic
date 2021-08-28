@@ -9,5 +9,5 @@ links: []
 image:
   filename: ""
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
