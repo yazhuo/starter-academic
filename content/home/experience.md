@@ -14,6 +14,7 @@ experience:
       Traffic migration analysis and performance prediction based on Twitter Zipkin trace data. 
       
       * Analyzed Zipkin trace data and investigate characteristics
+      
       * Designed a model to predict traffic migration behaviors
 
 widget_id: experience
