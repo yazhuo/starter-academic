@@ -1,4 +1,3 @@
----
 widget: experience
 active: true
 date_format: Jan 2006
@@ -12,8 +11,10 @@ experience:
     date_end: ""
     description: >-
       Traffic migration analysis and performance prediction based on Twitter Zipkin trace data. 
+      
       * Analyzed Zipkin trace data and investigate characteristics
       * Designed a model to predict traffic migration behaviors
+
 widget_id: experience
 headless: true
 weight: 40
@@ -21,4 +22,3 @@ title: Experience
 subtitle: null
 design:
   columns: "2"
----
