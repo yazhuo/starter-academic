@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: news
 widget_id: News
 headless: true
 weight: 20
