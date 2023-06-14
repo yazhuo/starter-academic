@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: news
+widget_id: News
 headless: true
 weight: 20
 title: News
