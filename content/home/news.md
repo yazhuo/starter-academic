@@ -2,7 +2,7 @@
 widget: news
 widget_id: News
 headless: true
-weight: 20
+weight: 30
 title: News
 active: true
 design:
