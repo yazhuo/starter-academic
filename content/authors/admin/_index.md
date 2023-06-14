@@ -3,10 +3,7 @@ title: Yazhuo Zhang
 role: PhD Student at Emory
 avatar_filename: null
 bio: null
-interests:
-  - Distributed System
-  - Caching System
-  - Distributed Tracing
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,14 +24,7 @@ social:
     icon: cv
 organizations: []
 education:
-  courses:
-    - institution: Emory University
-      course: Ph.D. in Computer Science
-      year: ""
-    - course: M.S. in Software Engineering
-      institution: South China University of Technology
-    - institution: South China University of Technology
-      course: B.S. in Software Engineering
+  courses: []
 email: ""
 superuser: true
 highlight_name: false
