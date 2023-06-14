@@ -39,6 +39,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a third-year Ph.D. student in the Computer Science Department at Emory University where I am fortunate to work with [Dr.Ymir Vigfusson](https://www.ymsir.com/) as part of the [SimBioSys Lab](https://simbiosys.mathcs.emory.edu/).
+I am a fourth year Ph.D. student in the Computer Science Department at Emory University where I am fortunate to work with [Dr.Ymir Vigfusson](https://www.ymsir.com/) as part of the [SimBioSys Lab](https://simbiosys.mathcs.emory.edu/). 
 
-My research interests include caching systems and distributed tracing. My current works focus on multi-tier caching performance and characteristics of distributed tracing data.
+My research interests lie primarily in **storage systems** and **distributed tracing systems**, with the overarching goal of enhancing the efficiency and optimization of large-scale distributed systems.
+
+On the storage system side, I focus on the theoretical analysis of caching systems and the design of efficient storage solutions. Meanwhile, in the realm of distributed tracing, I am particularly interested in utilizing tracing data to identify global bottlenecks and evaluate the impact of optimizations.
